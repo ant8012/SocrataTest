@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Antony\\AndroidStudioProjects\\SocrataTest\\soda-android-sdk\\build\\intermediates\\res\\merged\\release\\drawable\\common_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Antony\\AndroidStudioProjects\\SocrataTest\\soda-android-sdk\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\3.1.36\\res\\drawable\\common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antony\\AndroidStudioProjects\\SocrataTest\\soda-android-sdk\\build\\intermediates\\res\\merged\\release\\drawable\\common_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Antony\\AndroidStudioProjects\\SocrataTest\\soda-android-sdk\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\3.1.36\\res\\drawable\\common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antony\\AndroidStudioProjects\\SocrataTest\\soda-android-sdk\\build\\intermediates\\res\\merged\\release\\drawable\\common_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Antony\\AndroidStudioProjects\\SocrataTest\\soda-android-sdk\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\3.1.36\\res\\drawable\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antony\\AndroidStudioProjects\\SocrataTest\\soda-android-sdk\\build\\intermediates\\res\\merged\\release\\drawable\\common_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Antony\\AndroidStudioProjects\\SocrataTest\\soda-android-sdk\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\3.1.36\\res\\drawable\\common_signin_btn_text_dark.xml"
+    }
+]
